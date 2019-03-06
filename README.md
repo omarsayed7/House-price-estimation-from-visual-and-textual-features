@@ -2,7 +2,7 @@
 
 I have been using the House Prices dataset from Ahmed and Moustafa’s 2016 paper
 * You can find the dataset here https://github.com/emanhamed/Houses-dataset
-This dataset includes both numerical/categorical data along with images data for each of the 535 example houses in the dataset.
+* This dataset includes both numerical/categorical data along with images data for each of the 535 example houses in the dataset.
 ## The numerical and categorical attributes include:
 * 1.Number of bedrooms
 * 2.Number of bathrooms
