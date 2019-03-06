@@ -14,3 +14,6 @@ This dataset includes both numerical/categorical data along with images data for
 * 3.Kitchen
 * 4.Frontal view of the house
 
+# Here we are going to work with multiple inputs and mixed data with Keras.
+
+
